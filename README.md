@@ -1,2 +1,95 @@
 # Product-Recommendation-System
-Build a product recommendation system that predicts the rating or preference a user would give to a product based on their past ratings and the behaviour of similar users.
+
+## Overview
+
+This project is a Product Recommendation System that suggests products to users based on their preferences, purchase history, ratings, or browsing behavior. The goal is to improve user experience by providing personalized recommendations.
+
+## Features
+
+* Personalized product recommendations
+* Content-based filtering
+* Collaborative filtering
+* Similar product suggestions
+* User-friendly interface
+* Fast recommendation generation
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* Streamlit
+* Jupyter Notebook
+
+## Dataset
+
+The system uses a product dataset containing:
+
+* Product ID
+* Product Name
+* timestamp
+* User Ratings
+
+Dataset Source: Kaggle
+
+## Recommendation Techniques
+
+### Content-Based Filtering
+
+Recommends products similar to those the user has liked previously using product features and descriptions.
+
+### Collaborative Filtering
+
+Recommends products based on the preferences of similar users.
+
+## Project Structure
+
+product-recommendation-system/
+│
+├── data/
+├── notebooks/
+├── models/
+
+
+## Usage
+
+Run the application:
+
+python app.py
+
+or
+
+streamlit run app.py
+
+## Example Output
+
+Input:
+
+* Product: Wireless Headphones
+
+Recommended Products:
+
+* Bluetooth Earbuds
+* Noise Cancelling Headphones
+* Gaming Headset
+* Wireless Speaker
+
+## Results
+
+The recommendation engine successfully identifies similar products and provides personalized suggestions based on user behavior and product characteristics.
+
+## Future Improvements
+
+* Deep Learning-based recommendations
+* Hybrid recommendation system
+* Real-time user interaction tracking
+* Deployment on cloud platforms
+* Enhanced recommendation accuracy
+
+## Author
+
+Shanmuga Priya RK
+
+This project is licensed under the MIT License.
+
