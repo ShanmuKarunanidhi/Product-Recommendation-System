@@ -90,6 +90,5 @@ The recommendation engine successfully identifies similar products and provides 
 ## Author
 
 Shanmuga Priya RK
-
 This project is licensed under the MIT License.
 
