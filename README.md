@@ -87,6 +87,11 @@ The recommendation engine successfully identifies similar products and provides 
 * Deployment on cloud platforms
 * Enhanced recommendation accuracy
 
+  <img width="1917" height="1007" alt="p674 ss3" src="https://github.com/user-attachments/assets/a0ac94fc-1c70-4a50-a97b-5ccd3d2534d8" />
+<img width="1917" height="1007" alt="p674 ss2" src="https://github.com/user-attachments/assets/d9715f77-6da9-430a-b903-905e1c2d33f7" />
+<img width="1901" height="727" alt="P674 SS1" src="https://github.com/user-attachments/assets/51890e1b-8d0e-4314-a5ec-f72893ea9dc9" />
+
+
 ## Author
 
 Shanmuga Priya RK
